@@ -10,6 +10,7 @@ dns:
   listen: 0.0.0.0:53
   enhanced-mode: redir-host
   nameserver:
+  - system
   - 119.29.29.29
   - 223.5.5.5
   fallback:
