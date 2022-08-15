@@ -9,14 +9,18 @@ dns:
   ipv6: false
   listen: 0.0.0.0:53
   enhanced-mode: redir-host
+  default-nameserver:
+    - system
+    - 119.29.29.29
+    - 223.5.5.5
   nameserver:
-  - system
-  - 119.29.29.29
-  - 223.5.5.5
+    - system
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
   fallback:
-  - https://dns.cloudflare.com/dns-query
-  - tls://dns.google:853
-  - https://1.1.1.1/dns-query
-  - tls://1.1.1.1:853
-  - tls://8.8.8.8:853
+    - https://dns.cloudflare.com/dns-query
+    - tls://dns.google:853
+    - https://1.1.1.1/dns-query
+    - tls://1.1.1.1:853
+    - tls://8.8.8.8:853
   
