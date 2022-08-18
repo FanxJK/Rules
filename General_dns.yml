@@ -19,4 +19,6 @@ dns:
     - https://1.1.1.1/dns-query
     - tls://1.1.1.1:853
     - tls://8.8.8.8:853
-  
+  rules:
+    - DOMAIN,safebrowsing.urlsec.qq.com,REJECT # Reject Tencent's Safe Browsing Check
+    
