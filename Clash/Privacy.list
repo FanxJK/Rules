@@ -92,5 +92,5 @@ DOMAIN,safebrowsing.urlsec.qq.com
 # > Tenjin
 DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
-# > bilibili P2P CDN 屏蔽
+# > bilibili P2P CDN
 DOMAIN-SUFFIX,szbdyd.com
