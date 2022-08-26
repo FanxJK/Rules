@@ -68,7 +68,6 @@ DOMAIN,track.tiara.kakao.com
 # > Google
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
-DOMAIN,safebrowsing.googleapis.com
 # > GozenData
 # https://www.v2ex.com/t/772523
 DOMAIN-SUFFIX,gozendata.com
