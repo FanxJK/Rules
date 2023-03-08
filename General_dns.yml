@@ -3,7 +3,6 @@ socks-port: 7891
 mode: Rule
 log-level: silent
 dns:
-  enhanced-mode: redir-host
   use-hosts: true
   nameserver:
     - system
