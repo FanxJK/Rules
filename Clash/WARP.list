@@ -1,4 +1,5 @@
 # > CloudFlare WARP 入口
 DOMAIN,engage.cloudflareclient.com
+IP-CIDR,162.159.192.0/24
 IP-CIDR,162.159.193.0/24
 IP-CIDR6,2606:4700:100::/48
