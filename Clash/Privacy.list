@@ -92,3 +92,6 @@ DOMAIN,safebrowsing.urlsec.qq.com
 # > Tenjin
 DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
+# > OpenAI
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaicom.imgix.net
