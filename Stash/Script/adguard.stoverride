@@ -1,0 +1,16 @@
+name: AdGuard 会员
+desc: 解锁 AdGuard 会员功能
+
+http:
+  mitm:
+    - "mobile-api.adguard.org"
+  script:
+    - match: ^https:\/\/mobile-api\.adguard\.org\/api\/.+\/ios_validate_receipt\/(.*?)
+      name: adguard.response
+      type: response
+      requires-body: true
+
+script-providers:
+  adguard.response:
+    url: https://raw.githubusercontent.com/FanxJK/Rules/main/Stash/js/adguard.js
+    interval: 86400
