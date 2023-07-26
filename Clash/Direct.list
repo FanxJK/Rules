@@ -1,2 +1,4 @@
 # 路过图床
-DOMAIN, imgse.com
+DOMAIN,imgse.com
+# 字幕库
+DOMAIN-SUFFIX,zimuku.org
