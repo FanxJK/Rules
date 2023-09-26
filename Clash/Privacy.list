@@ -68,7 +68,7 @@ DOMAIN,track.tiara.kakao.com
 # > Google
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
-# DOMAIN,safebrowsing.googleapis.com // 启用 Google Chrome 安全检查
+DOMAIN,safebrowsing.googleapis.com
 # > GozenData
 # https://www.v2ex.com/t/772523
 DOMAIN-SUFFIX,gozendata.com
