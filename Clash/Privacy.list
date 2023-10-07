@@ -95,3 +95,5 @@ DOMAIN,track.tenjin.io
 # > OpenAI
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaicom.imgix.net
+# > TieBa
+IP-CIDR,180.76.76.200/32
