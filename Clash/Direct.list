@@ -2,3 +2,5 @@
 DOMAIN,imgse.com
 # 字幕库
 DOMAIN-SUFFIX,zimuku.org
+# AnyDesk
+DOMAIN-SUFFIX,net.anydesk.com
