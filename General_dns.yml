@@ -10,10 +10,9 @@ dns:
     - 119.29.29.29
     - 223.5.5.5
   fallback:
-    - tls://8.8.8.8:853
-    - https://8.8.8.8/dns-query
-    - tls://1.1.1.1:853
+    - https://dns.google/dns-query
     - https://1.1.1.1/dns-query
+    - https://cloudflare-dns.com/dns-query
   fallback-filter:
     geoip: true
     geoip-code: CN
