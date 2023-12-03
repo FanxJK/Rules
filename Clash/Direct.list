@@ -7,8 +7,11 @@ DOMAIN-SUFFIX,zimuku.vip
 DOMAIN-SUFFIX,zmk.lol
 DOMAIN-SUFFIX,srtku.com
 
-# AnyDesk
+# AnyDesk 通信
 DOMAIN-SUFFIX,net.anydesk.com
+
+# PikPak 下载
+DOMAIN,KEYWORD,dl-a10b
 
 # WeChat
 DOMAIN-SUFFIX,qlogo.cn
