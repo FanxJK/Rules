@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,net.anydesk.com
 
 # PikPak 下载
-DOMAIN,KEYWORD,dl-a10b
+DOMAIN-KEYWORD,dl-a10b
 
 # WeChat
 DOMAIN-SUFFIX,qlogo.cn
