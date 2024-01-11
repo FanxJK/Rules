@@ -35,3 +35,13 @@ IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
 IP-CIDR,162.62.163.63/32,no-resolve
 IP-CIDR,43.156.222.0/24,no-resolve
+
+# Xbox Game Download
+DOMAIN,xvcf1.xboxlive.com
+DOMAIN,xvcf2.xboxlive.com
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,d1.xboxlive.com
+DOMAIN,d2.xboxlive.com
+DOMAIN,dlassets.xboxlive.com
+DOMAIN,dlassets2.xboxlive.com
