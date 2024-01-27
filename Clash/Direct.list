@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,zmk.pw
 # PikPak 下载
 DOMAIN-KEYWORD,dl-a10b
 
+# BT Site
+DOMAIN-KEYWORD,limetorrents
+
 # WeChat
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
