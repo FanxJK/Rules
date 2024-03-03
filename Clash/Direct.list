@@ -50,3 +50,6 @@ DOMAIN,dlassets2.xboxlive.com
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
+
+# SmartDNS
+PROCESS-NAME,smartdns
