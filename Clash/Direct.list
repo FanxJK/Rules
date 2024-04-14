@@ -54,6 +54,8 @@ DOMAIN-KEYWORD,tracker
 # ipip.net
 DOMAIN-SUFFIX,ipip.net
 
-# hxdemby
-DOMAIN,bili.bili.rip
-DOMAIN,cdn.bili.rip
+# Synology DDNS
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN,ddns.synology.com
