@@ -15,6 +15,9 @@ dns:
   fallback-filter:
     geoip: true
     geoip-code: CN
+    geosite:
+      - gfw
+      - "!cn"
     ipcidr:
       - 240.0.0.0/4
   fake-ip-filter:
@@ -95,6 +98,7 @@ dns:
     # Nintendo Switch
     - '+.srv.nintendo.net'
     - '*.n.n.srv.nintendo.net'
+    - '+.cdn.nintendo.net'
     # Sony PlayStation
     - '+.stun.playstation.net'
     # Microsoft Xbox
@@ -158,3 +162,6 @@ dns:
     # 迅雷
     - '+.sandai.net'
     - '+.n0808.com'
+    #UU Plugin
+    - '+.uu.163.com'
+    - 'ps.res.netease.com'
