@@ -1,3 +1,0 @@
-# amdc.m.taobao.com 被解析到海外造成 APP 加载缓慢
-# cloud.video.taobao.com 被解析到海外造成 APP 加载缓慢
-47.246.103.0/24
