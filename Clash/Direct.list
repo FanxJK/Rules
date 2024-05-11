@@ -61,4 +61,5 @@ DOMAIN,checkport.synology.com
 DOMAIN,ddns.synology.com
 
 # hxd emby
-DOMAIN-SUFFIX,bili.rip
+DOMAIN,bili.bili.rip
+DOMAIN,cdn.bili.rip
