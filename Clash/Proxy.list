@@ -1,2 +1,6 @@
 # Google Chrome 检查更新
 DOMAIN,update.googleapis.com
+
+# PikPak 检测
+DOMAIN,mypikpak.com
+DOMAIN,access.mypikpak.com
