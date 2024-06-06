@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,zmk.pw
 
 # PikPak 下载
-DOMAIN-SUFFIX,mypikpak.com
+DOMAIN,rcv5-sp.mypikpak.com
+DOMAIN-KEYWORD,dl-a10b-
 
 # WeChat
 DOMAIN-SUFFIX,qlogo.cn
