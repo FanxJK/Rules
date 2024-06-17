@@ -30,11 +30,8 @@ DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
 
-# PlayStation
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# PlayStation Game Download
+DOMAIN-SUFFIX,dl.playstation.net
 
 # Xbox Game Download
 DOMAIN,xvcf1.xboxlive.com
