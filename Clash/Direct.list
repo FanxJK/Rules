@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,dl.playstation.net
 
 # Playstation Share Screen
 DOMAIN,bfe-prod.playstation-cloud.com
+DOMAIN,gms-screen-share-transcoded-psnnp-np-usw2.s3.us-west-2.amazonaws.com
 
 # Xbox Game Download
 DOMAIN,xvcf1.xboxlive.com
