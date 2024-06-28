@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com
 # PlayStation Game Download
 DOMAIN-SUFFIX,dl.playstation.net
 
+# Playstation Share Screen
+DOMAIN,bfe-prod.playstation-cloud.com
+
 # Xbox Game Download
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
