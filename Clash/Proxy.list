@@ -13,3 +13,7 @@ DOMAIN-SUFFIX,keeflys.com
 
 # jsDelivr
 DOMAIN-SUFFIX,jsdelivr.net
+
+# GitHub Codespaces
+DOMAIN,asse-data.rel.tunnels.api.visualstudio.com
+DOMAIN,asse.rel.tunnels.api.visualstudio.com
