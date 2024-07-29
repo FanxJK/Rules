@@ -21,3 +21,12 @@ DOMAIN,asse.rel.tunnels.api.visualstudio.com
 
 # Shazam
 DOMAIN-SUFFIX,shazam.com
+
+# iCloud Private Relay
+DOMAIN,mask.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,mask-canary.icloud.com
+DOMAIN,canary.mask.apple-dns.net
+DOMAIN,mask-h2.icloud.com
+
+  - DOMAIN,mask-t.apple-dns.net
