@@ -1,8 +1,9 @@
 # GitHub RAW
 DOMAIN,raw.githubusercontent.com
 
-# Google Chrome 检查更新
-DOMAIN,update.googleapis.com
+# Google
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,gstatic.cn
 
 # PikPak 检测
 DOMAIN,mypikpak.com
