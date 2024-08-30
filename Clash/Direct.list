@@ -54,6 +54,9 @@ DOMAIN-KEYWORD,tracker
 # ipip.net
 DOMAIN-SUFFIX,ipip.net
 
+# ip138
+DOMAIN-SUFFIX,ip138.com
+
 # Synology DDNS
 DOMAIN,checkip.synology.com
 DOMAIN,checkipv6.synology.com
