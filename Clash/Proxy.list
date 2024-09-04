@@ -4,6 +4,8 @@ DOMAIN,raw.githubusercontent.com
 # Google
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.cn
+DOMAIN,update.googleapis.com
+DOMAIN,clientservices.googleapis.com
 
 # Emotn Store
 DOMAIN-SUFFIX,keeflys.com
