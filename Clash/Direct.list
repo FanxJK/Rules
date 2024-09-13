@@ -57,12 +57,6 @@ DOMAIN-SUFFIX,ipip.net
 # ip138
 DOMAIN-SUFFIX,ip138.com
 
-# Synology DDNS
-DOMAIN,checkip.synology.com
-DOMAIN,checkipv6.synology.com
-DOMAIN,checkport.synology.com
-DOMAIN,ddns.synology.com
-
 # 路过图床
 DOMAIN,imgse.com
 
