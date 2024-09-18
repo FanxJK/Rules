@@ -6,19 +6,15 @@ dns:
   enable: true
   use-hosts: true
   nameserver:
-    - system
-    - 119.29.29.29
-    - 223.5.5.5
+  - "tls://1.1.1.1#\U0001F680 节点选择"
+  - "tls://8.8.8.8#\U0001F680 节点选择"
+  - "https://cloudflare-dns.com/dns-query#\U0001F680 节点选择"
+  - "https://dns.google/dns-query#\U0001F680 节点选择"
   nameserver-policy:
-    "geosite:cn,private":
+    geosite:cn,private:
       - system
       - 119.29.29.29
       - 223.5.5.5
-    "geosite:geolocation-!cn":
-      - "https://dns.cloudflare.com/dns-query"
-      - "https://dns.google/dns-query"
-      - "tls://8.8.4.4:853"
-      - "tls://1.0.0.1:853"
   fake-ip-filter:
     # https://github.com/vernesong/OpenClash/blob/master/luci-app-openclash/root/etc/openclash/custom/openclash_custom_fake_filter.list
     # LAN
