@@ -11,7 +11,7 @@ dns:
   - "https://cloudflare-dns.com/dns-query#\U0001F680 节点选择"
   - "https://dns.google/dns-query#\U0001F680 节点选择"
   nameserver-policy:
-    geosite:cn,private:
+    geosite:cn,apple:
       - system
       - 119.29.29.29
       - 223.5.5.5
