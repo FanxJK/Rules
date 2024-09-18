@@ -6,26 +6,6 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN,update.googleapis.com
 
-# Synology
-DOMAIN,d2f0395ykn6hxb.cloudfront.net
-DOMAIN-SUFFIX,diskstation.me
-DOMAIN-SUFFIX,dscloud.biz
-DOMAIN-SUFFIX,dscloud.me
-DOMAIN-SUFFIX,dscloud.mobi
-DOMAIN-SUFFIX,dsmunas.com
-DOMAIN-SUFFIX,dsmunas.net
-DOMAIN-SUFFIX,dsmunas.org
-DOMAIN-SUFFIX,familyds.com
-DOMAIN-SUFFIX,familyds.net
-DOMAIN-SUFFIX,familyds.org
-DOMAIN-SUFFIX,i234.me
-DOMAIN-SUFFIX,myds.com
-DOMAIN-SUFFIX,quickconnect.to
-DOMAIN-SUFFIX,synodns.com
-DOMAIN-SUFFIX,synology.cn
-DOMAIN-SUFFIX,synology.com
-DOMAIN-SUFFIX,synology.me
-
 # Emotn Store
 DOMAIN-SUFFIX,keeflys.com
 
