@@ -2,8 +2,8 @@ mixed-port: 7890
 socks-port: 7891
 mode: rule
 log-level: silent
-keep-alive-interval: 60
-keep-alive-idle: 300
+keep-alive-interval: 15
+keep-alive-idle: 600
 disable-keep-alive: false
 
 dns:
