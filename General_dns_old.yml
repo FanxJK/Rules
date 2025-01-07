@@ -162,3 +162,5 @@ dns:
     #UU Plugin
     - '+.uu.163.com'
     - 'ps.res.netease.com'
+    #Wifi Calling
+    - '+.pub.3gppnetwork.org'
