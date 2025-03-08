@@ -97,5 +97,3 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaicom.imgix.net
 # > TieBa
 IP-CIDR,180.76.76.200/32
-# > Telegram
-IP-CIDR,95.161.76.100/31
