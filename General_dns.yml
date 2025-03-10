@@ -9,12 +9,11 @@ dns:
   enable: true
   enhanced-mode: redir-host
   use-hosts: true
-  respect-rules: true
   nameserver:
-  - "tls://1.1.1.1"
-  - "tls://8.8.8.8"
-  - "https://cloudflare-dns.com/dns-query"
-  - "https://dns.google/dns-query"
+  - "tls://1.1.1.1#\U0001F680 节点选择"
+  - "tls://8.8.8.8#\U0001F680 节点选择"
+  - "https://cloudflare-dns.com/dns-query#\U0001F680 节点选择"
+  - "https://dns.google/dns-query#\U0001F680 节点选择"
   nameserver-policy:
     "geosite:cn,private,apple":
       - system
