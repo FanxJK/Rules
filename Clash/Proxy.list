@@ -1,3 +1,9 @@
+# DNS
+IP-CIDR,1.1.1.1/32
+IP-CIDR,1.0.0.1/32
+DOMAIN,cloudflare-dns.com
+DOMAIN,dns.google
+
 # GitHub RAW
 DOMAIN,raw.githubusercontent.com
 
