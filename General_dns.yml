@@ -9,6 +9,7 @@ dns:
   enable: true
   enhanced-mode: redir-host
   use-hosts: true
+  respect-rules: true
   nameserver:
   - "tls://1.1.1.1"
   - "tls://8.8.8.8"
