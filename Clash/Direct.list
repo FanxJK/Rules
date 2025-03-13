@@ -73,5 +73,8 @@ DOMAIN-SUFFIX,zmk.lol
 DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,zmk.pw
 
+# VORE-API
+DOMAIN,api.vore.top
+
 DOMAIN,iptv.rushb.pro
 DOMAIN,hxd.as174.de
