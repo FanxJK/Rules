@@ -11,14 +11,14 @@ dns:
   use-hosts: true
   direct-nameserver-follow-policy: true
   nameserver:
-    - tls://1.1.1.1#🚀 节点选择
-    - tls://8.8.8.8#🚀 节点选择
-    - https://cloudflare-dns.com/dns-query#🚀 节点选择
-    - https://dns.google/dns-query#🚀 节点选择
+    - "tls://1.1.1.1#\U0001F680 节点选择"
+    - "tls://8.8.8.8#\U0001F680 节点选择"
+    - "https://cloudflare-dns.com/dns-query#\U0001F680 节点选择"
+    - "https://dns.google/dns-query#\U0001F680 节点选择"
   direct-nameserver:
     - system
   nameserver-policy:
-    geosite:cn,private,apple:
+    "geosite:cn,private,apple":
       - system
       - 119.29.29.29
       - 223.5.5.5
