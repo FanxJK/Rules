@@ -10,6 +10,10 @@ dns:
   enhanced-mode: redir-host
   use-hosts: true
   direct-nameserver-follow-policy: true
+  default-nameserver:
+    - system
+    - 119.29.29.29
+    - 223.5.5.5
   nameserver:
     - "tls://1.1.1.1#\U0001F680 节点选择"
     - "tls://8.8.8.8#\U0001F680 节点选择"
