@@ -10,15 +10,16 @@ dns:
   enhanced-mode: redir-host
   use-hosts: true
   direct-nameserver-follow-policy: true
+  respect-rules: true
   default-nameserver:
     - system
     - 119.29.29.29
     - 223.5.5.5
   nameserver:
-    - "tls://1.1.1.1#\U0001F680 节点选择"
-    - "tls://8.8.8.8#\U0001F680 节点选择"
-    - "https://cloudflare-dns.com/dns-query#\U0001F680 节点选择"
-    - "https://dns.google/dns-query#\U0001F680 节点选择"
+    - "tls://1.1.1.1"
+    - "tls://8.8.8.8"
+    - "https://1.1.1.1/dns-query"
+    - "https://8.8.8.8/dns-query"
   direct-nameserver:
     - system
   nameserver-policy:
