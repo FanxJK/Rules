@@ -22,5 +22,9 @@ DOMAIN-SUFFIX,shazam.com
 # Apple Music Library
 DOMAIN-SUFFIX,blobstore.apple.com
 
+# Passkeys Services
+DOMAIN,cable.ua5v.com
+DOMAIN,cable.auth.com
+
 # LimeTorrents
 DOMAIN,www.limetorrents.lol
