@@ -24,5 +24,4 @@ dns:
     "geosite:cn,private,apple":
       - system
   proxy-server-nameserver:
-    - https://doh.pub/dns-query
-    - https://dns.alidns.com/dns-query
+      - system
