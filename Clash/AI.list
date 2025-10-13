@@ -25,7 +25,10 @@ DOMAIN-SUFFIX,claude.ai
 
 # >> Google Gemini
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
 
 # >> Google DeepMind
 DOMAIN-SUFFIX,deepmind.com
@@ -81,3 +84,16 @@ DOMAIN-SUFFIX,x.ai
 
 # >> groq
 DOMAIN-SUFFIX,groq.com
+
+# >> JetBrains AI
+DOMAIN,api.jetbrains.ai
+
+# >> Apple Intelligence
+#DOMAIN-SUFFIX,apple-relay.apple.com
+#DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+#DOMAIN-SUFFIX,apple-relay.cloudflare.com
+#DOMAIN-SUFFIX,gateway.icloud.com
+#DOMAIN-SUFFIX,guzzoni.apple.com
+#DOMAIN-SUFFIX,cp4.cloudflare.com
+#DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+#DOMAIN-SUFFIX,apps.mzstatic.com
