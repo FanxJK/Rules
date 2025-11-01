@@ -67,11 +67,12 @@ DOMAIN,ddns.synology.com
 DOMAIN,imgse.com
 
 # 字幕库
+DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,zimuku.org
+DOMAIN-SUFFIX,zmk.pw
 DOMAIN-SUFFIX,zimuku.vip
 DOMAIN-SUFFIX,zmk.lol
-DOMAIN-SUFFIX,srtku.com
-DOMAIN-SUFFIX,zmk.pw
+
 
 DOMAIN,status.rushb.pro
 
