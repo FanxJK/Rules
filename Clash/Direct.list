@@ -73,6 +73,9 @@ DOMAIN-SUFFIX,zmk.pw
 DOMAIN-SUFFIX,zimuku.vip
 DOMAIN-SUFFIX,zmk.lol
 
+# ip.sb api
+DOMAIN,api-ipv6.ip.sb
+DOMAIN,api-ipv4.ip.sb
 
 DOMAIN,status.rushb.pro
 
