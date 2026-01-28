@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 # Google AI Studio
 DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,g.ai
+DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -57,6 +59,8 @@ DOMAIN,jules.google.com
 DOMAIN,aida.googleapis.com
 # Antigravity
 DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
+DOMAIN,daily-cloudcode-pa.googleapis.com
 
 # >> POE
 DOMAIN-SUFFIX,poe.com
@@ -93,8 +97,8 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN,api.jetbrains.ai
 
 # >> Apple Intelligence
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.apple.com
+DOMAIN,cp4.cloudflare.com
 DOMAIN,gspe1-ssl.ls.apple.com
-
-
-
