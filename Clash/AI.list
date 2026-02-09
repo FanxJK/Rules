@@ -102,3 +102,6 @@ DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,gspe1-ssl.ls.apple.com
+
+# >> OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
