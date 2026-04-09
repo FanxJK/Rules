@@ -33,4 +33,7 @@ DOMAIN,cable.auth.com
 DOMAIN,www.limetorrents.lol
 
 # Pikpak
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,mypikpak.com
