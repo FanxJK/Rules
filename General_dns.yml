@@ -9,8 +9,6 @@ dns:
   enable: true
   enhanced-mode: redir-host
   use-hosts: true
-  direct-nameserver-follow-policy: true
-  respect-rules: true
   default-nameserver:
     - system
     - 119.29.29.29
