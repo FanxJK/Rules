@@ -16,3 +16,7 @@ DOMAIN,f1prodlive.akamaized.net
 # Apple TV
 DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
+
+# 4GTV
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
