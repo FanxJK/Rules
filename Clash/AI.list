@@ -8,6 +8,7 @@
 # DOMAIN,api.statsig.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.site
