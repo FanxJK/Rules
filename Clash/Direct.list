@@ -37,7 +37,6 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com
 # > https://github.com/NoCapBRB/hk-banks-proxy-rules/blob/main/hk_banks_direct.list
 DOMAIN,api.sc.com
 DOMAIN-SUFFIX,standardchartered.com.hk
-DOMAIN-KEYWORD,standardchartered-hk
 DOMAIN-SUFFIX,ccb.com.hk
 DOMAIN-SUFFIX,asia.ccb.com
 DOMAIN-SUFFIX,bochk.com
