@@ -112,3 +112,6 @@ DOMAIN-SUFFIX,zimuku.vip
 DOMAIN-SUFFIX,zmk.lol
 
 DOMAIN,status.rushb.pro
+
+# Hugging Face Mirror
+DOMAIN-SUFFIX,hf-mirror.com
