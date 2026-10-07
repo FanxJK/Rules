@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
 
 # >> Google
 # Gemini
@@ -107,3 +108,6 @@ DOMAIN,gspe1-ssl.ls.apple.com
 
 # >> OpenRouter
 DOMAIN-SUFFIX,openrouter.ai
+
+# >> Cursor
+DOMAIN-SUFFIX,cursor.sh
