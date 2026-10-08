@@ -111,3 +111,6 @@ DOMAIN-SUFFIX,openrouter.ai
 
 # >> Cursor
 DOMAIN-SUFFIX,cursor.sh
+
+# >> TypeSafe / JEV
+DOMAIN-SUFFIX,typesafe.ai
