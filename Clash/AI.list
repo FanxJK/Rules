@@ -112,3 +112,8 @@ DOMAIN-SUFFIX,openrouter.ai
 
 # >> Cursor
 DOMAIN-SUFFIX,cursor.sh
+
+# >> Windsurf
+DOMAIN,server.codeium.com
+DOMAIN,inference.codeium.com
+DOMAIN,server.self-serve.windsurf.com
